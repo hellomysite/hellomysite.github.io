@@ -1,0 +1,28 @@
+body{
+background: linear-gradient(to top, #AFEEEE, yellow) fixed;
+    }
+
+h1, h2 {
+    text-align: center;
+       }
+
+img {
+     border: 3px red solid;
+     border-radius: 0 30px 0 30px; 
+     width: 120px;
+     height: 150px;
+     }
+
+p {
+   font-size: 16px;
+  }
+
+ul {
+    padding: 0; 
+    margin-left: 28px; 
+    font-size: 20px;
+    color: #8B008B;
+    }
+span {
+     font-weight: normal;
+     }
